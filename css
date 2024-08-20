@@ -89,7 +89,7 @@
 }
 
 .divisor_materia{
-    width: 1020px;
+    width: 100%;
     height: 0px;
     top: 554px;
     left: 210px;
@@ -128,7 +128,7 @@
     line-height: 32px;
     text-align: left;
     color: #333333;
-    margin: auto 375px auto auto;
+    margin: 20px 375px auto auto;
 }
 .negrito_vermelho{
     width: 675px;
@@ -159,8 +159,7 @@ li{
     line-height: 24px;
     text-align: left;
     color: #A6130A;
-    margin: auto 382px auto auto;
-    list-style-position: outside;
+    margin: 1px 382px auto auto;
 }
 
 .texto_continuacao{
@@ -192,12 +191,13 @@ li{
     line-height: 36px;
     text-align: left;
     color: #111111;
-    margin: 10px 375px auto auto;
+    margin: auto 375px auto auto;
 }
 .container{
     position: relative;
     height: 252px;
-    margin: 50px 1px 1px 390px;
+    margin-top: 50px;
+    margin-left: 225px;
 }
 .linha_citacao{
     width: 0px;
